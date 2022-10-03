@@ -2,3 +2,25 @@
 body {
   box-sizing: border-box;
 }
+
+body {
+  .inner {
+    padding: 10px 24px;
+  }
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+p,
+span {
+  font-size: 12px;
+  margin-bottom: 0;
+}
